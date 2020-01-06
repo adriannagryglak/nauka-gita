@@ -1,0 +1,19 @@
+
+
+
+
+
+.container{
+    margin: 0 50px;
+
+}
+
+.poem {
+    border: solid 1px #3d3d3d;
+    height: 90vh;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5;
+}
