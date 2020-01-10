@@ -1,0 +1,13 @@
+
+1. autoprefixer-cli ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css :
+
+node_modules/.bin/autoprefixer-cli -o style.prefixed.css css/style.css 
+
+(instalacja autoprefixera: npm install --save-dev autoprefixer-cli)
+
+
+2. nu-html-checker ma wyœwietlaæ listê b³êdów we wszystkich plikach .html :
+
+node_modules/.bin/html-validate *.html 
+
+(instalacja:npm install --save-dev html-validate)
